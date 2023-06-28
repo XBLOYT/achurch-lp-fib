@@ -1,5 +1,5 @@
 # AChurch
-## Pràctica Compiladors Q2-2023
+## Pràctica Compiladors LP Q2-2023 (Nota: 9,5)
 
 Achurch és un intèrpret de λ-càlcul que aplica α-conversions i β-reduccions a les expressions donades.
 A més, per cada expressió, obté l'arbre que la representa, de forma gràfica.
